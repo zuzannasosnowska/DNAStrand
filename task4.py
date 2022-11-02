@@ -54,6 +54,6 @@ s = DNAStrand()
 seq1 = "AGCATTAGCTTACGCGGTGT"
 subseq = "ATT"
 s.summarise(seq1)
-print(s.isValidDNA(seq1))
+
 
 
